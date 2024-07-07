@@ -3,11 +3,11 @@
 > Cite: https://github.com/nickchen121/Pre-training-language-model
 > 
 
-![alt text](image.png)
+![alt text](asset/image.png)
 
-![alt text](image-1.png)
+![alt text](asset/image-1.png)
 
-![alt text](image-2.png)
+![alt text](asset/image-2.png)
 
 #### PADDING MASK
 inputs = ['my name is steve and i want to do nlp', 'i like cat']
